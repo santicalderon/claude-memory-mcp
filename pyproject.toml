@@ -18,8 +18,8 @@ classifiers = [
 dependencies = ["mcp>=1.0.0"]
 
 [project.urls]
-Homepage = "https://github.com/mi-kernel2026/claude-memory-mcp"
-Repository = "https://github.com/mi-kernel2026/claude-memory-mcp"
+Homepage = "https://github.com/santicalderon/claude-memory-mcp"
+Repository = "https://github.com/santicalderon/claude-memory-mcp"
 
 [project.scripts]
 claude-memory-mcp = "claude_memory_mcp.server:run"

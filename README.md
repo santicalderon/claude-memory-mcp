@@ -77,7 +77,7 @@ to /api/webhooks/stripe. See stripe_handler.py:42.
 >
 > Install: add 8 lines to your `.mcp.json`, run `uvx claude-memory-mcp`.
 >
-> Source: [github.com/mi-kernel2026/claude-memory-mcp]
+> Source: [github.com/santicalderon/claude-memory-mcp](https://github.com/santicalderon/claude-memory-mcp)
 
 ## License
 
